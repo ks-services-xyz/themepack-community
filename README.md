@@ -10,6 +10,7 @@ Include the CSS file in your project:
 
 ```html
 <link rel="stylesheet" href="theme.css">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@kraft.stitch/themepack/theme-pack.min.css">
 ```
 
 Then use the utility classes directly:
