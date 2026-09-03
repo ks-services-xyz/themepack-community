@@ -1,0 +1,9 @@
+{
+  "name": "@kraft.stitch/themepack",
+  "version": "0.0.1",
+  "description": "A lightweight, theme pack.",
+  "main": "theme-pack.min.css",
+  "files": [
+    "theme-pack.min.css"
+  ]
+}
