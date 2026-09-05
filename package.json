@@ -2,6 +2,10 @@
   "name": "@kraft.stitch/themepack",
   "version": "0.0.2",
   "description": "A lightweight, theme pack.",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ks-services-xyz/themepack-community.git"
+  },
   "main": "theme-pack.min.css",
   "files": [
     "theme-pack.min.css"
