@@ -95,3 +95,65 @@ color: #111827;
 ```
 
 This keeps components independent from specific colors and allows the theme to control the actual appearance.
+
+## 📚 Documentation
+
+For detailed documentation, utility references, examples, and usage guidelines, visit the KSPack community repository:
+
+👉 **[KSPack Documentation](https://github.com/ks-services-xyz/csspack-community)**
+
+---
+
+## 🐛 Issues & Feature Requests
+
+Found a bug, have a feature idea, or want to suggest an improvement?
+
+Please open an issue in the KSPack community repository.
+
+👉 **[Report an Issue or Request a Feature](https://github.com/ks-services-xyz/themepack-community/issues)**
+
+You can use GitHub Issues for:
+
+* 🐛 Bug reports
+* 💡 Feature requests
+* 🎨 Utility suggestions
+* 📚 Documentation improvements
+* ⚡ Performance improvements
+* 💬 General feedback
+
+---
+
+## 🤝 Contributing
+
+Contributions and suggestions are welcome.
+
+If you would like to contribute to KSPack:
+
+1. Fork the repository.
+2. Create a new branch.
+3. Make your changes.
+4. Test your changes.
+5. Create a pull request.
+
+Please check the community repository for contribution guidelines.
+
+👉 **[Contribute to KSPack](https://github.com/ks-services-xyz/themepack-community)**
+
+---
+
+## 📄 License
+
+KSPack is released under the **MIT License**.
+
+See the [LICENSE](LICENSE) file for the complete license text.
+
+---
+
+## ⭐ Support the Project
+
+If you find KSPack useful, consider giving the project a ⭐ on GitHub.
+
+Your feedback, suggestions, and contributions help improve KSPack.
+
+**Made with ❤️ by @kraft.stitch**
+
