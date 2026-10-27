@@ -1,11 +1,38 @@
 {
   "name": "@kraft.stitch/themepack",
-  "version": "0.0.2",
+  "version": "0.0.3",
+  "license": "MIT",
+  "author": "Kraft.Stitch",
   "description": "A lightweight, theme pack.",
   "repository": {
     "type": "git",
     "url": "https://github.com/ks-services-xyz/themepack-community.git"
   },
+  "keywords": [
+  "theme",
+  "theming",
+  "css-variables",
+  "css-custom-properties",
+  "design-tokens",
+  "color-tokens",
+  "color-palette",
+  "theme-variables",
+  "background-colors",
+  "text-colors",
+  "foreground-colors",
+  "border-colors",
+  "semantic-colors",
+  "ui-theming",
+  "design-system",
+  "ui-components",
+  "button-styles",
+  "form-controls",
+  "dark-mode",
+  "light-mode",
+  "css",
+  "frontend",
+  "kraft-stitch"
+  ],
   "main": "theme-pack.min.css",
   "files": [
     "theme-pack.min.css"
